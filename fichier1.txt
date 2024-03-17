@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 8270-984D
+
+ R‚pertoire de C:\Users\meria\App
+
+17/03/2024  16:22    <DIR>          .
+17/03/2024  16:21    <DIR>          ..
+17/03/2024  16:22                 0 fichier1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  34.592.473.088 octets libres
